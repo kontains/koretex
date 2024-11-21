@@ -1,7 +1,8 @@
 # koretex
 Bot repo
 
-[![ui-dark](home/project/app/img/koretex-logo-small.jpg)](https://github.com/kontains/koretex)
+
+[![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/img/koretex-logo-small.jpg)](https://github.com/kontains/koretex)
 
 <hr>
 
@@ -9,11 +10,11 @@ Setting up docs.
 
 -  [Koretec : ](https://github.com/kontains/koretec)  UI  (app)
 
-[![ui-dark](home/project/app/demo/koretec-ui-dark1.jpg)](https://github.com/kontains/koretec)
+[![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/demo/koretec-ui-dark1.jpg)](https://github.com/kontains/koretec)
 
 -  [Koretex : ](https://github.com/kontains/koretex)  AI  (agents)
 
-[![ui-light](home/project/app/demo/instruction-following.jpg)](https://github.com/kontains/koretex)
+[![ui-light](https://github.com/kontains/koretec/blob/main/home/project/app/demo/instruction-following.jpg)](https://github.com/kontains/koretex)
 
 <hr>
 
